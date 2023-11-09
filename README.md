@@ -24,7 +24,7 @@ Install the dependencies by running:
 
 #### Run using Command Prompt
 
-Navigate to the nearbyshops folder which has manage.py file then run the following command on cmd
+Initialize the docker container and navigate to the nearbyshops folder which has manage.py file then run the following command on cmd
 
 ```html
 docker run --name=postgis -d -e POSTGRES_USER=user001 -e POSTGRES_PASS=123456789 -e POSTGRES_DBNAME=gis -p 5432:5432 kartoza/postgis
