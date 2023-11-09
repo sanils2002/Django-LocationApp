@@ -7,6 +7,7 @@
 ## Description
 
 This application would list the nearby shops closer to the user’s location. The location-based web apps in Django by using its sub-framework known as GeoDjango is to be made.
+
         ----------------------------------------------------------------------------------------
 
 #### Software Requirements
